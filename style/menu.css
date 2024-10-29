@@ -1,0 +1,45 @@
+body{
+    background-color: #FADADD;
+    color: #000;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+}
+
+.container__titulo{
+    text-shadow: #fdc8cd 4px 4px;
+}
+
+.link{
+    text-decoration: none;
+    color: #000;
+}
+
+.container__lista{
+    list-style-type: none;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.centralizar-lista {
+    text-align: center;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.centralizar-lista li {
+    display: inline-block;
+    margin-right: 10px; 
+}
+
+.linha{
+    background-color: #000;
+}
